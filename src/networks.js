@@ -35,13 +35,13 @@ module.exports = {
     wif: 0xb0
   },
   desire: {
-    messagePrefix: '\x19Desire Signed Message:\n',
+    messagePrefix: '\x20Desire Signed Message:\n',
     bip32: {
-      public: 0x019da462,
-      private: 0x019d9cfe
+      public: 0x2FE52F8,
+      private: 0x2FE52CC
     },
-    pubKeyHash: 0x30,
-    scriptHash: 0x32,
-    wif: 0xb0
+    pubKeyHash: 0x4C,
+    scriptHash: 0x10,
+    wif: 0xCC
   }
 }
