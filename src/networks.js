@@ -40,7 +40,7 @@ module.exports = {
       public: 0x2FE52F8,
       private: 0x2FE52CC
     },
-    pubKeyHash: 0x4C,
+    pubKeyHash: 0x1E,
     scriptHash: 0x10,
     wif: 0xCC
   }
