@@ -43,5 +43,15 @@ module.exports = {
     pubKeyHash: 0x1E,
     scriptHash: 0x10,
     wif: 0xCC
+  },
+  gravium: {
+    messagePrefix: '\x20Gravium Signed Message:\n',
+    bip32: {
+      public: 0x2FE52F8,
+      private: 0x2FE52CC
+    },
+    pubKeyHash: 0x26,
+    scriptHash: 0x61,
+    wif: 0xA6
   }
 }
