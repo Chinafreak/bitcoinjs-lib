@@ -57,8 +57,8 @@ module.exports = {
   ucacoin: {
     messagePrefix: '\x20DarkNet Signed Message:\n',
     bip32: {
-      public: 0x133B12E,
-      private: 0x133AEE3
+      public: 0x133AEE3,
+      private: 0x133B12E
     },
     pubKeyHash: 0x44,
     scriptHash: 0x82,
