@@ -53,5 +53,15 @@ module.exports = {
     pubKeyHash: 0x26,
     scriptHash: 0x61,
     wif: 0xA6
+  },
+  ucacoin: {
+    messagePrefix: '\x20DarkNet Signed Message:\n',
+    bip32: {
+      public: 0x133B12E,
+      private: 0x133AEE3
+    },
+    pubKeyHash: 0x44,
+    scriptHash: 0x82,
+    wif: 0xc0
   }
 }
